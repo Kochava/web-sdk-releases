@@ -1,8 +1,6 @@
 ## Kochava Web SDK
 The Kochava Web SDK is a lightweight plugin which can be easily integrated into your web project.
 
-### V3
-
 [![Download](https://img.shields.io/github/v/release/Kochava/web-sdk-releases?include_prereleases&sort=semver)](https://www.npmjs.com/package/kochava)
 
 ### Installation
